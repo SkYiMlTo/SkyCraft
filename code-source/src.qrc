@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>gameTheme.mp3</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>songs/coinSound.wav</file>
+        <file>songs/gameTheme.wav</file>
+        <file>songs/jumpMario.wav</file>
+        <file>songs/jumpMario2.wav</file>
+        <file>songs/loseMario.wav</file>
+        <file>songs/loseMario2.wav</file>
+        <file>songs/menuTheme.wav</file>
+        <file>songs/pauseSoundEffect.wav</file>
+        <file>songs/pauseSoundEffect2.wav</file>
+        <file>songs/winMario.wav</file>
+        <file>images/backgroundGameMario.png</file>
+        <file>images/banzaiBillMario.png</file>
+        <file>images/banzaiBillRedMario.png</file>
+        <file>images/blocMario.jpg</file>
+        <file>images/castle.png</file>
+        <file>images/clock.png</file>
+        <file>images/coinMario3.png</file>
+        <file>images/creditsMarioBg.jpg</file>
+        <file>images/gameOver3.png</file>
+        <file>images/leaderboardMarioBg.jpg</file>
+        <file>images/mario2_50fixe.png</file>
+        <file>images/menuMarioBg.jpg</file>
+        <file>images/pauseMarioBg.jpg</file>
+        <file>images/quitMarioBg.jpg</file>
+        <file>images/settingsMarioBg.jpg</file>
+        <file>images/warp.png</file>
+        <file>images/winMarioBg.jpg</file>
+        <file>text/scores.txt</file>
+    </qresource>
+</RCC>
